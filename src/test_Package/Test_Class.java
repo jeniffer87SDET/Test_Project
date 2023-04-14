@@ -7,6 +7,11 @@ public class Test_Class {
 	}
 	
 	public void greeting(){
-		system.out.println("Hello there...");
+		System.out.println("Hello there...");
 
+}
+	
+	public void devTry() {
+		System.out.println("Sending to Dev Team...");
+	}
 }
