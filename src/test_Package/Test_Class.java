@@ -14,4 +14,8 @@ public class Test_Class {
 	public void newMessage() {
 		System.out.println("Created Repository...");
 	}
+	
+	public void tryOne() {
+		System.out.println("Trying one more time...");
+	}
 		}
